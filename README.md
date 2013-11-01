@@ -1,4 +1,4 @@
-# Test 5
+## The merged title Test
 
 ## Overview
 
